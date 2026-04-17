@@ -1,9 +1,7 @@
 streamlit
 requests
 pandas
+plotly
 numpy
-matplotlib
 scikit-learn
-folium
-streamlit-folium
-fpdf
+python-dotenv
